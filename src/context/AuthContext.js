@@ -27,7 +27,7 @@ useEffect(()=>{
 
 //déconnexion
 const logout = () => {
-    signOut(auth);
+    signOut(auth); 
 }
 
 //Connexion
